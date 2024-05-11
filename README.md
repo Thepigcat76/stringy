@@ -1,3 +1,3 @@
 # Stringy
 
-Teeny tiny rust program for representing strings in ascii using the little endian format
+Teeny tiny rust/c program for representing strings in ascii using the little endian format
